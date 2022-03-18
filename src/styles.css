@@ -628,15 +628,15 @@ blockquote p {
 }
 
 .home-slide-1 {
-  background-image: url('images/slider/big1.jpg');
+  /* background-image: url('images/slider/big1.jpg'); */
 }
 
 .home-slide-2 {
-  background-image: url('images/slider/big2.jpg');
+  /* background-image: url('images/slider/big2.jpg'); */
 }
 
 .home-slide-3 {
-  background-image: url('images/slider/big3.jpg');
+  /* background-image: url('images/slider/big3.jpg'); */
 }
 
 /* *********************************************************
@@ -1275,7 +1275,7 @@ blockquote p {
   background-color: #2C2D31;
   background-repeat: no-repeat;
   background-size: 32px 64px;
-  background-image: url("images/cd-icon-controller.svg");
+  /* background-image: url("images/cd-icon-controller.svg"); */
 }
 
 #cd-zoom-in:hover, #cd-zoom-out:hover {
@@ -1301,7 +1301,7 @@ blockquote p {
   background-color: #2C2D31;
   background-repeat: no-repeat;
   background-size: 32px 64px;
-  background-image: url("s3-us-west-2.amazonaws.com/s.cdpn.io/148866/cd-icon-controller.svg");
+  /* background-image: url("s3-us-west-2.amazonaws.com/s.cdpn.io/148866/cd-icon-controller.svg"); */
 }
 
 #cd-rubberBand-in:hover, #cd-rubberBand-out:hover {
