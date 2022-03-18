@@ -33,10 +33,6 @@ body {
 	padding-right: 20px;
 }
 
-[class*='col-']:last-of-type {
-	/*padding-right: 0px;*/
-}
-
 .grid {
 	width: 100%;
 	max-width: 1140px;
