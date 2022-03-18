@@ -1,10 +1,9 @@
 .main-root{
-    background-image: url('https://wallpaperaccess.com/full/279547.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-#back_trans{
+#back_trans{ 
     min-height: 96vh !important;
     min-width: 98vw !important;
     background-color: rgba(0, 0, 0, 0.253);

@@ -16,6 +16,7 @@ body {
 	margin: 0px;
 }
 .main-root{
+    background-image: url("./assets/images/main_bg.jpeg");
     min-width: 100vw !important;
     min-height: 100vh !important;
     padding: 22vh 20vw;
